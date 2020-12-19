@@ -28,9 +28,15 @@ Add-on updates do not cause a license issue. Do not update only the add-on‌ ca
 • This license is for Jira Software 8.3.0 only. Therefore, to get a license for other versions and software
 
 
+Heres where to get installers for other software:
+https://www.atlassian.com/software
+
+
+
 Heres a GUI example of running the .JAR file:
 https://i.ibb.co/t4WtpbJ/download-1.png
 
-
 The License:
 https://i.ibb.co/qJTcpkr/download.png
+
+
