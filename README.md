@@ -56,11 +56,3 @@ https://i.ibb.co/t4WtpbJ/download-1.png
 The License:
 https://i.ibb.co/qJTcpkr/download.png
 
-
-
-
-
-
-
-
-
