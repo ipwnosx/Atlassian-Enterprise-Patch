@@ -56,8 +56,3 @@ Contained Files By Extension
 TXT 2
 JAR 4
 https://www.virustotal.com/gui/file/532c9ead786c831a9d9c43616977db35a36be2f31214b8ddb336c373753b531e/details
- 
-
-
-
-[hide]https://github.com/ipwnosx/Atlassian-Enterprise-Patch.git[/hide]
